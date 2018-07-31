@@ -9,8 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Junan Chakma"]
   spec.email         = ["junan.chakma@welltravel.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{A gem for generating tip values based on a number of inputs.}
   spec.homepage      = "https://github.com/jch-wtag/tippy"
   spec.license       = "MIT"
 
